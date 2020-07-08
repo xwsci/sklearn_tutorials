@@ -68,15 +68,3 @@ plt.ylabel('y')
 plt.title("x outliers")
 plt.axis('tight')
 plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
